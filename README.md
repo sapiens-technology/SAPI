@@ -7,6 +7,8 @@ To access the document click [here](https://github.com/sapiens-technology/SAPI/b
 ## Overview
 **SAPI (Semantic AI with Pretrained Integration)** is a novel architecture designed to enhance language model inference by integrating multiple specialized sub-models. This approach improves response quality and adaptability across diverse domains and modalities, including text, images, audio, and video.
 
+![SAPI Architecture](https://raw.githubusercontent.com/sapiens-technology/SAPI/refs/heads/main/workflow.png)
+
 The system comprises two core components:
 
 - **Entity**: The primary model that interacts with the user, processes inputs, and synthesizes responses.
@@ -53,6 +55,8 @@ SAPI has been benchmarked against traditional transformer models:
 | Monolithic Transformer | 32.5 | 45.3 | 28.7 |
 | Static Ensemble | 34.1 | 47.2 | 29.5 |
 | **SAPI (Proposed)** | **38.9** | **52.6** | **33.4** |
+
+![Comparison between SAPI architecture and other common architectures](https://raw.githubusercontent.com/sapiens-technology/SAPI/refs/heads/main/results_chart.png)
 
 Results demonstrate that SAPI’s **dynamic recruitment and synthesis mechanism** significantly outperforms traditional models, particularly for multi-domain queries.
 
