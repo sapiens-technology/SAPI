@@ -1,5 +1,7 @@
 # SAPI: Semantic AI with Pretrained Integration
 
+Click [here](https://zenodo.org/records/14998143) to read the full study.
+
 ## Overview
 **SAPI (Semantic AI with Pretrained Integration)** is a novel architecture designed to enhance language model inference by integrating multiple specialized sub-models. This approach improves response quality and adaptability across diverse domains and modalities, including text, images, audio, and video.
 
@@ -68,3 +70,5 @@ SAPI introduces a **breakthrough in language model inference** by combining mult
 
 ---
 © 2025 Sapiens Technology® | Developed by Ben-Hur Varriano
+---
+Varriano, B. H. (2025). SAPI: Semantic AI with Pretrained Integration - A Novel Architecture for Language Model Inference. Zenodo. https://doi.org/10.5281/zenodo.14998143
