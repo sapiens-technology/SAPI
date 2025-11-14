@@ -78,3 +78,6 @@ SAPI introduces a **breakthrough in language model inference** by combining mult
 © 2025 Sapiens Technology® | Developed by Ben-Hur Varriano
 ---
 Varriano, B. H. (2025). SAPI: Semantic AI with Pretrained Integration - A Novel Architecture for Language Model Inference. Zenodo. https://doi.org/10.5281/zenodo.14998143
+
+<sub>Developed by Ben-Hur Varriano.</sub>
+
